@@ -1,6 +1,9 @@
-> Per Aspera Ad Astra
+## ***Per Aspera Ad Astra***
 
-# Hi, I'm Ginkgo, a student majoring in Digital Media Technology at Fuzhou University.
+---
+
+### 👋 Welcome To My World.
+Hi, I'm Ginkgo, a student majoring in Digital Media Technology at Fuzhou University.
 
 I'm from Fuzhou, Fujian—a small, rain-soaked city in southern China. I love my hometown, yet I also long to venture farther into the world.
 
